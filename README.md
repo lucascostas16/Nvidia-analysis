@@ -18,4 +18,4 @@ Incluye:
 ## 👤 Autor
 Lucas Costas González  
 📫 lucascostas16@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/lucas-costas-gonz%C3%A1lez-51b259235/)
+📫 [LinkedIn](https://www.linkedin.com/in/lucas-costas-gonz%C3%A1lez-51b259235/)
